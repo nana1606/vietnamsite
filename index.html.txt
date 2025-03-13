@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Вьетнам - Главная</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Добро пожаловать во Вьетнам!</h1>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="culture.html">Культура</a>
+      <a href="attractions.html">Достопримечательности</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>О Вьетнаме</h2>
+      <p>Вьетнам – удивительная страна с богатой историей, великолепной природой и уникальной культурой.</p>
+      <p id="current-time">Текущее время во Вьетнаме: ...</p>
+    </section>
+
+    <section id="about">
+      <h2>Что вас ждет?</h2>
+      <ul>
+        <li>Живописные пейзажи</li>
+        <li>Уникальная кухня</li>
+        <li>Интересные традиции</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <button id="toggle-theme">Сменить тему</button>
+    <button class="scroll-top">Наверх</button>
+  </footer>
+</body>
+</html>

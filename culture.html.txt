@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Культура Вьетнама</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Культура и традиции</h1>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="culture.html">Культура</a>
+      <a href="attractions.html">Достопримечательности</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Праздники</h2>
+      <p>Вьетнам славится своими красочными праздниками, такими как Тэт (вьетнамский Новый год).</p>
+    </section>
+
+    <section>
+      <h2>Кухня</h2>
+      <p>Попробуйте фо-бо, спринг-роллы и знаменитый вьетнамский кофе.</p>
+    </section>
+
+    <section>
+      <h2>Дополнительная информация</h2>
+      <p>Здесь можно разместить длинный текст о культуре, традициях и истории Вьетнама, чтобы страница получилась прокручиваемой.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue.</p>
+      <p>Прокрутите вниз, чтобы увидеть больше подробностей.</p>
+    </section>
+  </main>
+
+  <footer>
+    <button id="toggle-theme">Сменить тему</button>
+    <button class="scroll-top">Наверх</button>
+  </footer>
+</body>
+</html>
